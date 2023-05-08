@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "170592652848",
+    "project_id": "quizz-naba",
+    "storage_bucket": "quizz-naba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170592652848:android:916bf99b1e8cfd9cfbe7f5",
+        "android_client_info": {
+          "package_name": "com.example.quiz_marin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170592652848-8c8fbkpo5211afndpdeaf5jdip9jb8eo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quiz_marin",
+            "certificate_hash": "5cd0bf38f5a5088cade92f14bfadab3bb1cc13ce"
+          }
+        },
+        {
+          "client_id": "170592652848-vf3imsm7komqih5j3f1c98ptaet08f9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTJAWZsmyFtt_laYyWfCI7OHlNyzud55o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170592652848-vf3imsm7komqih5j3f1c98ptaet08f9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
